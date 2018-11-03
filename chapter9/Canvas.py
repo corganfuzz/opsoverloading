@@ -6,15 +6,15 @@ class CanvasClass:
         window = Tk()
         window.title("Canvas")
 
-    # Place canvas in window
+        # Place canvas in window
         self.canvas = Canvas(window, width=200, height=100, bg="white")
         self.canvas.pack()
 
-    # place buttons in frame
+        # place buttons in frame
         frame = Frame(window)
         frame.pack()
         btRectangle = Button(frame, text="Rectangle",
-                             command = self.displayRect)
+                             command=self.displayRect)
         btOval = Button(frame, text="Oval",
                         command=self.displayOval)
         btArc = Button(frame, text="Arc",
