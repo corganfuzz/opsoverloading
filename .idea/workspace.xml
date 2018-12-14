@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1669fa3-227c-41d8-9ac0-e0e8d96601bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter10/looper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/returningList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/hwk135.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d1669fa3-227c-41d8-9ac0-e0e8d96601bb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +10,15 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/pythonprojectz$Read.coverage" NAME="Read Coverage Results" MODIFIED="1543530169940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter13" />
+    <SUITE FILE_PATH="coverage/pythonprojectz$linearSearch.coverage" NAME="linearSearch Coverage Results" MODIFIED="1544656228266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter10" />
     <SUITE FILE_PATH="coverage/pythonprojectz$CalcLoanx.coverage" NAME="CalcLoanx Coverage Results" MODIFIED="1541714604588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter9" />
     <SUITE FILE_PATH="coverage/pythonprojectz$processAlternative.coverage" NAME="processAlternative Coverage Results" MODIFIED="1540951201994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonprojectz$Sort.coverage" NAME="Sort Coverage Results" MODIFIED="1544414602870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 15" />
     <SUITE FILE_PATH="coverage/pythonprojectz$LoanerCalc.coverage" NAME="LoanerCalc Coverage Results" MODIFIED="1541125680418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter9" />
     <SUITE FILE_PATH="coverage/pythonprojectz$hwk133.coverage" NAME="hwk133 Coverage Results" MODIFIED="1543545534221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter13" />
+    <SUITE FILE_PATH="coverage/pythonprojectz$countingClass.coverage" NAME="countingClass Coverage Results" MODIFIED="1544735218171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter10" />
     <SUITE FILE_PATH="coverage/pythonprojectz$looper.coverage" NAME="looper Coverage Results" MODIFIED="1542254807905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter10" />
+    <SUITE FILE_PATH="coverage/pythonprojectz$positional.coverage" NAME="positional Coverage Results" MODIFIED="1544736107431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter10" />
     <SUITE FILE_PATH="coverage/pythonprojectz$defaultListArgument.coverage" NAME="defaultListArgument Coverage Results" MODIFIED="1542327456947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter10" />
     <SUITE FILE_PATH="coverage/pythonprojectz$hwk15.coverage" NAME="hwk15 Coverage Results" MODIFIED="1543545555603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter13" />
     <SUITE FILE_PATH="coverage/pythonprojectz$processbuttonEvent.coverage" NAME="processbuttonEvent Coverage Results" MODIFIED="1540948926346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -28,9 +27,14 @@
     <SUITE FILE_PATH="coverage/pythonprojectz$hwk10.coverage" NAME="hwk10 Coverage Results" MODIFIED="1543547359098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter10" />
     <SUITE FILE_PATH="coverage/pythonprojectz$knit.coverage" NAME="knit Coverage Results" MODIFIED="1540948317006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonprojectz$hwk13.coverage" NAME="hwk13 Coverage Results" MODIFIED="1543545511574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter13" />
+    <SUITE FILE_PATH="coverage/pythonprojectz$dickie.coverage" NAME="dickie Coverage Results" MODIFIED="1544735784141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter10" />
+    <SUITE FILE_PATH="coverage/pythonprojectz$sortingExample.coverage" NAME="sortingExample Coverage Results" MODIFIED="1544657604333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter10" />
+    <SUITE FILE_PATH="coverage/pythonprojectz$question26.coverage" NAME="question26 Coverage Results" MODIFIED="1544724368728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter10" />
     <SUITE FILE_PATH="coverage/pythonprojectz$PassList.coverage" NAME="PassList Coverage Results" MODIFIED="1542326987773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter10" />
     <SUITE FILE_PATH="coverage/pythonprojectz$CountLetterExecepton.coverage" NAME="CountLetterExecepton Coverage Results" MODIFIED="1543533372650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter13" />
     <SUITE FILE_PATH="coverage/pythonprojectz$Widgetz.coverage" NAME="Widgetz Coverage Results" MODIFIED="1541038120572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter9" />
+    <SUITE FILE_PATH="coverage/pythonprojectz$selfie.coverage" NAME="selfie Coverage Results" MODIFIED="1544730278777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter10" />
+    <SUITE FILE_PATH="coverage/pythonprojectz$binary.coverage" NAME="binary Coverage Results" MODIFIED="1544415723519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 15" />
     <SUITE FILE_PATH="coverage/pythonprojectz$output.coverage" NAME="output Coverage Results" MODIFIED="1544413828939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 15" />
     <SUITE FILE_PATH="coverage/pythonprojectz$Write.coverage" NAME="Write Coverage Results" MODIFIED="1543528650678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter13" />
     <SUITE FILE_PATH="coverage/pythonprojectz$copy.coverage" NAME="copy Coverage Results" MODIFIED="1543530935203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter13" />
@@ -39,9 +43,11 @@
     <SUITE FILE_PATH="coverage/pythonprojectz$Exercise5_24.coverage" NAME="Exercise5_24 Coverage Results" MODIFIED="1541727004884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/evennumberedexercise" />
     <SUITE FILE_PATH="coverage/pythonprojectz$ex.coverage" NAME="ex Coverage Results" MODIFIED="1541734465651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter9" />
     <SUITE FILE_PATH="coverage/pythonprojectz$hwk11.coverage" NAME="hwk11 Coverage Results" MODIFIED="1543547243249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter10" />
+    <SUITE FILE_PATH="coverage/pythonprojectz$directory.coverage" NAME="directory Coverage Results" MODIFIED="1544452539636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 15" />
     <SUITE FILE_PATH="coverage/pythonprojectz$Exercise05_24.coverage" NAME="Exercise05_24 Coverage Results" MODIFIED="1541706280858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/evennumberedexercise" />
     <SUITE FILE_PATH="coverage/pythonprojectz$Homework_9.coverage" NAME="Homework_9 Coverage Results" MODIFIED="1541731804264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/pythonprojectz$recursivePlaindrome.coverage" NAME="recursivePlaindrome Coverage Results" MODIFIED="1544408253622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 15" />
+    <SUITE FILE_PATH="coverage/pythonprojectz$months.coverage" NAME="months Coverage Results" MODIFIED="1544647182771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter10" />
     <SUITE FILE_PATH="coverage/pythonprojectz$homework_15.coverage" NAME="homework_15 Coverage Results" MODIFIED="1543547726501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -60,27 +66,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="50" />
+          <entry key="py" value="62" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="10" />
-          <entry key="Python" value="47" />
+          <entry key="Python" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="30" />
-          <entry key="py" value="9681" />
+          <entry key="dummy" value="43" />
+          <entry key="py" value="12329" />
           <entry key="txt" value="66" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="96" />
-          <entry key="Python" value="9681" />
+          <entry key="PLAIN_TEXT" value="109" />
+          <entry key="Python" value="12329" />
         </counts>
       </usages-collector>
     </session>
@@ -88,56 +94,67 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter13/hwk131.py">
+        <entry file="file://$PROJECT_DIR$/chapter10/question26.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="220">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter13/hwk135.py">
+        <entry file="file://$PROJECT_DIR$/chapter10/selfie.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter 15/recursivePlaindrome.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="264">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
-                <marker date="1544408253000" expanded="true" signature="20:25" ph="..." />
-                <marker date="1544408253000" expanded="true" signature="183:188" ph="..." />
+                <marker date="1544731655000" expanded="true" signature="10:15" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter10/dickie.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="27" lean-forward="true" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+              <folding>
+                <marker date="1544735784000" expanded="true" signature="13:18" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter 15/output.py">
+        <entry file="file://$PROJECT_DIR$/chapter10/positional.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+            <state relative-caret-position="22">
+              <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
               <folding>
-                <marker date="1544413828000" expanded="true" signature="11:18" ph="..." />
-                <marker date="1544413828000" expanded="true" signature="97:165" ph="..." />
+                <marker date="1544736107000" expanded="true" signature="8:13" ph="..." />
+                <marker date="1544736107000" expanded="true" signature="68:73" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter13/hwk133.py">
+        <entry file="file://$PROJECT_DIR$/chapter10/countingClass.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="198">
+              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <folding>
+                <marker date="1544735663000" expanded="true" signature="73:78" ph="..." />
+                <marker date="1544735663000" expanded="true" signature="250:255" ph="..." />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter10/question7.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -192,6 +209,18 @@
         <option value="$USER_HOME$/Downloads/homework_15.py" />
         <option value="$PROJECT_DIR$/chapter 15/recursivePlaindrome.py" />
         <option value="$PROJECT_DIR$/chapter 15/output.py" />
+        <option value="$PROJECT_DIR$/chapter 15/Sort.py" />
+        <option value="$PROJECT_DIR$/chapter 15/binary.py" />
+        <option value="$PROJECT_DIR$/chapter 15/directory.py" />
+        <option value="$PROJECT_DIR$/chapter10/months.py" />
+        <option value="$PROJECT_DIR$/chapter10/linearSearch.py" />
+        <option value="$PROJECT_DIR$/chapter10/sortingExample.py" />
+        <option value="$PROJECT_DIR$/chapter10/question26.py" />
+        <option value="$PROJECT_DIR$/chapter10/selfie.py" />
+        <option value="$PROJECT_DIR$/chapter10/question7.py" />
+        <option value="$PROJECT_DIR$/chapter10/countingClass.py" />
+        <option value="$PROJECT_DIR$/chapter10/dickie.py" />
+        <option value="$PROJECT_DIR$/chapter10/positional.py" />
       </list>
     </option>
   </component>
@@ -201,10 +230,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="22" />
-    <option name="width" value="1440" />
-    <option name="height" value="874" />
+    <option name="width" value="1280" />
+    <option name="height" value="1413" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -225,7 +254,7 @@
             <path>
               <item name="pythonprojectz" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonprojectz" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 15" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter10" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -255,30 +284,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.output">
-    <configuration name="homework_15" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonprojectz" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/homework_15.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hwk10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.positional">
+    <configuration name="countingClass" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonprojectz" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,7 +298,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter10/hwk10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter10/countingClass.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,7 +307,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hwk11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dickie" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonprojectz" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -313,7 +320,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter10/hwk11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter10/dickie.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -322,7 +329,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="output" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="positional" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonprojectz" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -330,12 +337,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 15/output.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter10/positional.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,7 +351,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="recursivePlaindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="question26" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonprojectz" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -352,12 +359,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 15/recursivePlaindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter10/question26.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="selfie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonprojectz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter10/selfie.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -367,19 +396,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.hwk10" />
-      <item itemvalue="Python.hwk11" />
-      <item itemvalue="Python.homework_15" />
-      <item itemvalue="Python.recursivePlaindrome" />
-      <item itemvalue="Python.output" />
+      <item itemvalue="Python.question26" />
+      <item itemvalue="Python.selfie" />
+      <item itemvalue="Python.countingClass" />
+      <item itemvalue="Python.dickie" />
+      <item itemvalue="Python.positional" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.output" />
-        <item itemvalue="Python.recursivePlaindrome" />
-        <item itemvalue="Python.homework_15" />
-        <item itemvalue="Python.hwk10" />
-        <item itemvalue="Python.hwk11" />
+        <item itemvalue="Python.positional" />
+        <item itemvalue="Python.dickie" />
+        <item itemvalue="Python.countingClass" />
+        <item itemvalue="Python.selfie" />
+        <item itemvalue="Python.question26" />
       </list>
     </recent_temporary>
   </component>
@@ -397,8 +426,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="874" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1440" height="874" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17167382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -657,13 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13/hwk133.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter13/hwk135.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -684,11 +705,131 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter 15/output.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        <state relative-caret-position="198">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
           <folding>
             <marker date="1544413828000" expanded="true" signature="11:18" ph="..." />
             <marker date="1544413828000" expanded="true" signature="97:165" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 15/Sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1544414602000" expanded="true" signature="14:19" ph="..." />
+            <marker date="1544414602000" expanded="true" signature="85:90" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 15/binary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1544415723000" expanded="true" signature="33:38" ph="..." />
+            <marker date="1544415723000" expanded="true" signature="179:184" ph="..." />
+            <marker date="1544415723000" expanded="true" signature="472:596" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 15/directory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding>
+            <marker date="1544452396000" expanded="true" signature="23:28" ph="..." />
+            <marker date="1544452396000" expanded="true" signature="212:217" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10/months.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10/linearSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <marker date="1544656228000" expanded="true" signature="27:32" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10/sortingExample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <marker date="1544657604000" expanded="true" signature="65:70" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter13/hwk133.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10/question26.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10/question7.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10/countingClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <marker date="1544735663000" expanded="true" signature="73:78" ph="..." />
+            <marker date="1544735663000" expanded="true" signature="250:255" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10/selfie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <marker date="1544731655000" expanded="true" signature="10:15" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10/dickie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="27" lean-forward="true" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding>
+            <marker date="1544735784000" expanded="true" signature="13:18" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10/positional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding>
+            <marker date="1544736107000" expanded="true" signature="8:13" ph="..." />
+            <marker date="1544736107000" expanded="true" signature="68:73" ph="..." />
           </folding>
         </state>
       </provider>
